@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今夜、ロマンチック劇場で",
+  "base_artist": "リルネード",
+  "createdAt": "2025-12-19T16:46:23.109659Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜、ロマンチック劇場で",
+      "artist": "リルネード",
+      "has_synced": false,
+      "path": "select/pl_01_今夜、ロマンチック劇場で_リルネード.txt"
+    }
+  ]
+}
